@@ -1,0 +1,8 @@
+
+{
+  "functions": {
+    "api/tally-webhook.ts": {
+      "runtime": "edge"
+    }
+  }
+}
